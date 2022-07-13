@@ -9,3 +9,14 @@ h4 {
     color: red;
     font-size: 40px;
 }
+
+h1 {
+    background-color: aqua;
+    padding: 20px;
+}
+
+b {
+    background-color: blue;
+    color: aliceblue;
+    font-size: 30px;
+}
